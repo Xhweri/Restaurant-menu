@@ -1,0 +1,62 @@
+body{
+    background-image: url(bakgrund.jpg);
+    background-size: cover;
+}
+p{
+    color: wheat;
+    font-weight: bold;
+}
+label {
+    color: wheat;
+    font-weight: bold;
+}
+button{
+    color: wheat !important;
+    font-weight: bold !important;
+    background-color: green !important;
+}
+h1{
+    color: wheat !important;
+    font-weight: bold;
+}
+input{
+    background-color: wheat !important;
+}
+
+.piz1-sus{
+    display: flex;
+    justify-content: end;
+}
+.piz2-sus{
+    display: flex;
+    justify-content: end;
+}
+.yes{
+    background-color: rgb(118, 127, 23) !important;
+    margin-top: 6%;
+    
+}
+.nei{
+    background-color: rgb(241, 150, 3) !important;
+    margin-top: 6%;
+    padding-left: 10% !important;
+}
+#receipt{
+    list-style: none;
+}
+.order{
+    background-color: white !important;
+    
+}
+.k1{
+    font-size: 120%;
+}
+.k2{
+    font-size: 120%;
+}
+.k3{
+    font-size: 120%;
+}
+.red-text {
+    color: red;
+  }
